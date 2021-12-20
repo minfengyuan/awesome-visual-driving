@@ -23,21 +23,22 @@ Track papers on vision-based self-driving technology, and list related open sour
 
 ### 2020
 
-| Title                                                        | Source                                                       | Code                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Title                                                        |                            Source                            |                             Code                             |
+| :----------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Key Points Estimation and Point Instance Segmentation Approach for Lane Detection** | [![PDF](https://img.shields.io/badge/PDF-arXiv-red)](https://arxiv.org/abs/2002.06604) | [![Code](https://img.shields.io/badge/Github-blue?logo=github)](https://github.com/koyeongmin/PINet_new) |
 | **CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending** | [![PDF](https://img.shields.io/badge/PDF-ECCV2020-red)](https://arxiv.org/abs/2007.12147) |                                                              |
 
 ### 2019
 
-| Title                                                        | Source                                                       | Code                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Title                                                        |                            Source                            |                             Code                             |
+| :----------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Learning Lightweight Lane Detection CNNs by Self Attention Distillation** | [![PDF](https://img.shields.io/badge/PDF-ICCV_2019-red)](https://arxiv.org/abs/1908.00821) | [![Code](https://img.shields.io/badge/Github-blue?logo=github)](https://github.com/cardwing/Codes-for-Lane-Detection) |
 
 ### 2018
 
+| Title                                                        |                            Source                            |                             Code                             |
+| :----------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Spatial As Deep: Spatial CNN for Traffic Scene Understanding** | [![PDF](https://img.shields.io/badge/PDF-AAAI_2018-red)](https://arxiv.org/abs/1712.06080) | [![Code](https://img.shields.io/badge/Github-blue?logo=github)](https://github.com/XingangPan/SCNN) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
