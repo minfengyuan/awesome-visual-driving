@@ -25,8 +25,8 @@ Track papers on vision-based self-driving technology, and list related open sour
 
 | Title                                                        |                            Source                            |                             Code                             |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **Key Points Estimation and Point Instance Segmentation Approach for Lane Detection** | [![PDF](https://img.shields.io/badge/PDF-arXiv-red)](https://arxiv.org/abs/2002.06604) | [![Code](https://img.shields.io/badge/Github-blue?logo=github)](https://github.com/koyeongmin/PINet_new) |
-| **CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending** | [![PDF](https://img.shields.io/badge/PDF-ECCV2020-red)](https://arxiv.org/abs/2007.12147) |                                                              |
+| **Key Points Estimation and Point Instance Segmentation Approach for Lane Detection** | [![PDF](https://img.shields.io/badge/PDF-IEEE-red)](https://arxiv.org/abs/2002.06604) | [![Code](https://img.shields.io/badge/Github-blue?logo=github)](https://github.com/koyeongmin/PINet_new) |
+| **CurveLane-NAS: Unifying Lane-Sensitive Architecture Search and Adaptive Point Blending** | [![PDF](https://img.shields.io/badge/PDF-ECCV_2020-red)](https://arxiv.org/abs/2007.12147) |                                                              |
 
 ### 2019
 
