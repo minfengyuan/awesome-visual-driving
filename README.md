@@ -1,11 +1,7 @@
-# 🚗Panoramic driving (*updating*...)
+# 🚗awesome-visual-driving (*updating*...)
 Track papers on vision-based self-driving technology, and list related open source codes and datasets.
 
 # 📃Paper Tracking
-
-## Traffic Object Detection
-
-## Drivable Area Segmentation
 
 ## Lane Detection
 
@@ -40,7 +36,9 @@ Track papers on vision-based self-driving technology, and list related open sour
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Spatial As Deep: Spatial CNN for Traffic Scene Understanding** | [![PDF](https://img.shields.io/badge/PDF-AAAI_2018-red)](https://arxiv.org/abs/1712.06080) | [![Code](https://img.shields.io/badge/Github-blue?logo=github)](https://github.com/XingangPan/SCNN) |
 
+## Traffic Object Detection
 
+(*updating*...)
 
 # 🌈Datasets
 
